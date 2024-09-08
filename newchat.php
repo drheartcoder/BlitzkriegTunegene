@@ -1,0 +1,1 @@
+ <?php include('headerchat.php'); include('chat_contant.php'); ?>
